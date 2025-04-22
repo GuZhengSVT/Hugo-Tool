@@ -2,7 +2,7 @@ import os
 import re
 
 # 设置根目录
-root_dir = "/Users/guzhengsvt/Hugo/content" # replace to your file path
+root_dir = "/Users/username/Hugo/content" # replace to your file path
 # 语言后缀
 lang_suffix = "zh-cn" # replace to your target language code
 
